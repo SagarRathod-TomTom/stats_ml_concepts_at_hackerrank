@@ -1,6 +1,6 @@
 """
 Problem Statement:
-https://www.hackerrank.com/challenges/predicting-office-space-price/problem
+https://www.hackerrank.com/challenges/correlation-and-regression-lines-7/problem
 
 Useful Links:
 1. https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/regression-analysis/find-a-linear-regression-equation/
